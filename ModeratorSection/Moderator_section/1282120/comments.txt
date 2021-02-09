@@ -1,0 +1,64 @@
+1410595894 Bob Ross: @Hellomynameis99_, ah I understand a lot more now. Thanks.
+
+I saw this coming LOOONG ago and that's why I quit playing on servers...I knew at one point someone was gonna mess something up and this massive s****storm would come.
+
+Oh well, minecraft had its time :-(
+1410577063 Hellomynameis99: @Pykirknh, to pay their costs by selling cosmetic items that don't affect gameplay, such as particle effects and hats.
+
+Many people claim that players will not "donate" without incentive, but only time will tell.
+
+Does Mojang have the right to do this? Yes, it's written in the EULA.
+
+Is the community happy about it? No.
+1410576956 Hellomynameis99: @Pykirknh, Meanwhie, it seemed, the members of Mojang had been told to decline comment on any further EULA matters. The new EULA was put in to place on the first of August, when many servers either shut themselves down or adapted to the new EULA.
+
+In short, the EULA prevents servers from selling anything from Minecraft that can change gameplay (such as access to diamonds), including anything you've made yourself (such as a plugin that shoots fireballs), whilst still allowing servers 
+1410576743 Hellomynameis99: @Pykirknh, changes that Mojang and it's lawyers had agreed on to prevent people from making money from Minecraft yet still allow servers to make money through donations.
+
+A follow-up Q&A was posted four days later, answering questions from the community. While halfway reasonable, the majority of the server community that offer reasonable perks for small donations were outraged, saying that many large communities and many small, budding ones would find it hard to stay afloat in the crisis.
+1410576511 falkirknh: @Surikaten., Okay. I wasn't aware that rule was so strict.
+1410576431 Hellomynameis99: @Pykirknh, News of this somehow leaked out onto the Internet and the whole issue blew way out of proportion. Whilst several Mojangsters and a couple of lawyers held a heated debate, the Minecraft community went into meltdown with speculations flying everywhere.
+
+A Mojang official confirmed via Twitter that this has always been a part of the EULA, just never properly enforced.
+
+On the 12th of June, Owen of Mojang posted "Let's talk server monetization!" To the Mojang blog. This blog detailed the
+1410575986 Hellomynameis99: @Pykirknh, Later, Mojang received many calls from stricken parents asking for refunds (quite big ones too, well into the hundreds) from purchases that their children had made on their credit cards. When you purchase Minecraft, there's a piece of text that tells you that this is a one-time transaction and your card won't be charged again. So when parents saw "Donation to ******* Minecraft server, $1000" on their billing statements, naturally they contacted Mojang about the issue.
+1410575815 Hellomynameis99: @Pykirknh, The EULA is the End User License Agreement that everyone clicks "I accept" without reading properly. The average EULA is in Legal-Speak, which is done on purpose to prevent the average end-user (that's us) from understanding what's going on. In this regard, Mojang is different as they keep their EULA shorter and simpler than most.
+
+There's always been a part in the EULA that said that nobody could make money off anything created by Mojang.
+1410574914 Bob Ross: Can someone tell me what EULA means in PM because I want to know what half the discussion is about and my internet doesn't work (proxies) because I just switched data plans from AT&T and now have a new router. (I'm waiting for my father to do something and log us in to U verse).
+1410572966 Surikaten.: @falkirknh, they shouldn't advertedly be facilitating payments through uploads or they then would violate the rule of advertising in the app. You may discuss individual servers in the Realms board but as soon as the intention of the upload is to make users buy a certain product, whether it is on a server or somewhere else it violates the rule of advertising and is to be taken down.
+1410572418 falkirknh: @Surikaten., What if they facilitate the payments out of the upload? Yes it's Microsoft's job to stop the server but we shouldn't be supporting it inside our community as it will likely lead to member disputes and a big headache if Microsoft were to take action against the server. Also Microsoft will likely have a HUGE crackdown on illegal (console) modding which isn't directly related but that could pose an issue.
+1410572214 Surikaten.: @falkirknh, yesh the general tendency is if there are any EULA changes that affect uploads in the app we'll incorporate them into the app rules directly so the app rules are up to par with the EULA.
+
+However if there is an upload posted for example that announces a server that violates the EULA, the upload in the app itself doesn't break the EULA. It'll be Microsoft's task to bring the server down or at least have its creators change it, any advertisement made to it doesn't violate the EULA :-)
+1410571865 falkirknh: @Surikaten., I haven't needed to deal with this stuff (here) I just thought it would be helpful to have a policy for dealing with EULA changes.
+1410571489 falkirknh: @Surikaten., I don't expect mods to actually enforce the EULA, it's just if a report is made on the grounds that it violates the EULA thee should be some mechanism of dealing with it. As I said stuff could be about to change quite drastically and it would be best to be ready.
+1410571311 falkirknh: @Surikaten., But that went in to affect August 1st
+1410571125 Hotline_101: @Surikaten., Perhaps :)
+1410570835 Surikaten.: @Hotline_101, I wouldn't be in such a hurry to get sceptic just yet :-) Microsoft has the capacity to take Minecraft to whole new levels both in terms of multiplayer gameplay and platforms not to mention modding and other goodies. They probably studied the game before making their offer, figuring out that slapping pay 2 win methods á Zynga style probably wont work that well but expanding on the community will potentially help the game grow bigger than it already is :-)
+1410570523 Hotline_101: @Surikaten., Yep, knew about that, I still think Microsoft will somehow screw up Minecraft... Make it a cash cow or something worthless, if this deal even goes through.
+1410570471 Surikaten.: @Hotline_101, there are no new changes since the last update in early June, which tightened things up a bit on server monatization.
+1410570359 Hotline_101: @Surikaten., What exactly is changed with the new EULA?
+1410567947 Surikaten.: While there are no disagreements with your premise and MC EULA violations should already be taken down regardless - how can an upload violate the EULA without also violating the current app rules? And how can an upload per se violate the MC EULA?
+
+Knowing the EULA is currently not demanded from mods and if there are ways for users to somehow violate it without also violate the app rules we'll much rather update the rules themselves than expect all mods to enforce the EULA for Microsoft :-)
+1410555380 falkirknh: @✩✮✭TelepathicGrunt✭✮✩, Just look at bit.ly/mcEULA
+1410550486 falkirknh: The above stuff is based on the system we have in place on the MCF, which a lot of work was put into and Mojang supposedly approved of.
+1410550339 falkirknh: @Frios10, I am not sure about PS4.
+1410550222 falkirknh: @Frios10, As it stands the EULA has been changed and some uploads are likely non-compliant. As for Microsoft changing things when they take over, I don't see them encouraging development collaboration with PocketMine even in the limited capacity as it is now. Which will make PocketMine development slower and servers will become less popular. Which will make the MCPE community smaller, but the MCPE community is strongly based around ModPE which should still work unless they do something nasty.
+1410550102 Frios10: I don't know. We should ask Suritaken about this. 
+
+If Microsoft screws everything up I'm going to be mad. I like there products but I don't want them to buy minecraft, might not be good for any of us.
+
+What do you think they will do about MCPE for ios and minecraft ps4/ps3 edition? 
+1410548684 falkirknh: @Hotline_101, Yes but content regarding the game still has to comply with the EULA. This mainly pertains to servers posted on the app (which are few).
+1410548552 Hotline_101: @falkirknh, Just a note though, isn't MCSeeds technically independent of Mojang? JNInteractive haven't been bought out by Microsoft (As far as I know)
+1410548501 Hotline_101: @falkirknh, Oh yay :P
+
+More servers will instantaneously die!
+
+Less players will play :D
+
+1410548461 falkirknh: @Hotline_101, When the purchase goes through we can expect a stricter EULA.
+1410548409 Hotline_101: What did Microsoft screw up now?

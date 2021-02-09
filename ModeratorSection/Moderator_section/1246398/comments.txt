@@ -1,0 +1,37 @@
+1409644475 Hellomynameis99: @Surikaten., Ahh, that makes sense. I can see why that would require major changes.
+1409585919 Surikaten.: ...the folders with more sessions but you would still not know what session went into what folder, etc. It would quickly become a bit complicated and perhaps unpractical :-)
+1409585861 Surikaten.: @Hellomynameis99_, It wouldn't play ball with the sorting and paging features. For example the main problem would be if you had a folder which held two sessions, one that was located in your first batch of sessions and another in your second 'Load more' batch of sessions. The folder wouldn't be properly housing all the sessions upon initial load and it wouldn't make too much sense. You'd have to tap a general 'Load more' button at the bottom of the page to fill up all of...
+1409560887 Bob Ross: @Hellomynameis99_, that's what I was thinking but let Surikaten. correct us with his limitless knowledge of C++ and PHP
+1409559035 Hellomynameis99: @Surikaten., Why would folders require serverside changes? I'd think the folders could be client side, and the client should still be able to fetch PMs in the same way as they do currently?
+1409511223 Surikaten.: @✩✮✭TelepathicGrunt✭✮✩, that's true. Will loop that around as well, could perhaps increase it some more for the coming update :-)
+1409403715 Surikaten.: @✩✮✭TelepathicGrunt✭✮✩, pm folders could also be an idea, but might take some time to implement since it would require a bit of restructing to the server side parts of PM, but you could currently perhaps split things up by naming Group PMs with one certain prefix and naming Single PMs with another, ie (GPM) <PM Name> for Groups and (SPM)... for singles, and when you'd like to only view your single sessions you could use the searchbar and search for SPM for example :-)
+1409403402 Surikaten.: @✩✮✭TelepathicGrunt✭✮✩, flag-descriptions are coming up :-) They were intended to be added along with the feature directly at release but didn't make it due to time stretches, but it has since been added and is coming up along with the next update :-)
+1408608677 Bob Ross: @Telepathic☆Grunt°, yes, PM needs refinement I can't keep up with conversations and don't know how important a conversation is until i scroll to the top.
+1408316170 Frios10: @Telepathic☆Grunt°, lol I was just thinking that the other day
+1408315580 Hellomynameis99: @Telepathic☆Grunt°, I've been thinking about that too :-)
+1408267533 Hellomynameis99: @Telepathic☆Grunt°, Great idea!
+1408122352 Hotline_101: @Party Doge, Sure, should be fine 
+1408120485 Bob Ross: Can I make a heads up thread for possible additions in the next update (not confirmed)?
+
+Or will that be a bit spoiler...
+1408058653 Surikaten.: @Hellomynameis99_, you can just fire the warning and then remove the upload and the warning will still remain there in the users notification list like usual :-)
+1408058609 Hellomynameis99: @Surikaten., Ahh, ok :-)
+1408058582 Surikaten.: ...the upload can be removed, the warning will still remain in the user's notification list acting like a regular warning still :-) The notifications wont disappear if the upload is removed, so it will be as if an official warning was submitted without having to use a completely new set of features to fire it :-) If a user lacks any uploads or comments and needs to be warned for example for his username they can just be posted up in the mod board and a warning will be due asap :-)
+1408058578 Hellomynameis99: @Surikaten., We had a recent case where we removed a post and then had no way to warn the user. In that case should we move the upload to private instead and issue a warning there?
+1408058407 Surikaten.: @Hellomynameis99_, sorry somehow missed it - an archive sounds interesting though and can see how it would be useful, for example if a user deletes a thread containing rule violations it could be good to still be able to access the thread without being able to comment/rate etc just to be able to find the comments again. Have written that one up as well for a future update :-) As for the fifth one though, if a user needs a warning for one of his uploads or comments, a warning can be fired then..
+1408057118 Hellomynameis99: @Surikaten., Don't forget, there's more ideas in the comments too :-P
+1408034107 notsfdude: I like all of the ideas :P The ones below sound good also.
+1408030491 Surikaten.: ...can correct it asap, and if they intended to upload it to the wrong section the upload can be corrected by mods asap without the user persistently moving it back to the wrong section again :-)
+1408030093 Surikaten.: To be honest, both these ideas sound excellent :-) The move upload feature was already planned and scheduled for the next coming update, but the temp ban will be included as well. Have written them up and as soon as the next update is initiated, in a few days, these will both be worked on and included :-)
+
+Regarding the move upload feature, we'll adjust it so it's only possible to move your upload if it hasn't been moved by a moderator already, so in the case users upload it incorrectly they...
+1408029774 Hotline_101: Snap, haven't gotten to add Hello's ideas :/
+1408026483 Hellomynameis99: @Hotline_101, The temp-ban feature is very well thought-out
+1408026333 Hotline_101: @Hellomynameis99_, Yeah :P
+1408026319 Hellomynameis99: Hotline, you need to add these ideas to the main post so that people don't have to scroll down to read them all :-P
+1408026283 Hellomynameis99: Oh, idea five - a way to warn users who have no content. Perhaps this feature could spawn a 'warning' PM or send the user a notification like the feature JN use for official warnings.
+1408026186 Hellomynameis99: Idea 4: A moderator archive. When a post is removed (by a moderator) it goes to the archive, aiding decisions such as bans and warnings.
+1408026106 Hotline_101: @Hellomynameis99_, yeah, I considered that 
+1408026033 Hellomynameis99: Idea two is a bit iffy... Users could move their off-topic content back into the general forum if a mod moved it against their will.
+
+How about users have the ability to move their own posts, but if the post has already been moved by a moderator the feature is disabled? And perhaps users can only move each post once?

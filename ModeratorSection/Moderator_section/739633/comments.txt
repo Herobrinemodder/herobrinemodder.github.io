@@ -1,0 +1,25 @@
+1379458800 kathryncrusher: @Hellomynameis99_, Yeah, those keep it going threads were really annoying
+1379113200 Mad Man T1zer 53: Yeah, I agree, there could be a mod feature where we could delete the upload straight away
+1378422000 Hellomynameis99: Uploads have always been removed instantly when I report them... I found this out when I deleted 400 or so "keep it going" threads.
+1378422000 Surikaten.: @Hotline_101, ah hmm. Not sure we have that on the roadmap yet, we'll look into finding a smooth solution for it after this update
+1378422000 Hotline_101: @#Herobrine#, I'd say muting, it seems to be the best thing if someone is being stiff necked 
+1378422000 Surikaten.: @#Herobrine#, we've patched lots of them along with the patch and should hopefully be out late next week. But sure a list of bugs you've found as well would be awesome so we can fix those too asap. You can just email it in so we have it on the dev comp or make a thread about it here :-)
+1378422000 Bob Ross: @Hotline_101, so we're muting the user...?
+
+Or are we disabling comments on a specific thread temporarily?
+1378422000 Frios10: @Hotline_101, I think that would be very helpful
+1378422000 Frios10: @#Herobrine#, maybe just post them on a thread in the board so we can all see them
+1378422000 Bob Ross: @Minecraft Seeds, ah and do we have an ETA for the next patch? This recent update update has greatly advanced seeds pro but it came with many bugs...do you want me to point them out?
+1378335600 Hotline_101: @Minecraft Seeds, The idea was that we (Mods) could temporarily block a user from posting or commenting for a period of time (Say, two hours)
+1378335600 Minecraft Seeds: @Hotline_101, comments aren't removed until the upload is actually deleted. Which one was the temp block idea? We're currently working on improving the report & edit comments features so those are instant and fast then we'll look at adding a few more mod tools that will be out along with the next patch.
+1378335600 Hotline_101: @Minecraft Seeds, what happened to the temp-block idea, it'd really be helpful right now, there's tons of people who I don't have the time to report 
+1378335600 Hotline_101: Hmmm, but does that not remove the comments?
+1378335600 Minecraft Seeds: @Frios10, correct it receives a reported status and should disappear from the app. Earlier it took a little longer for it to disappear for mods, but now it should be gone right away :-) Should take a maximum of 1-2 minutes due to cache.
+1378335600 Frios10: @falkirknh, the uploads become pending if you report it but for mods it's still a thread but should disappear soon for both the user and us
+1378335600 Minecraft Seeds: Idd, seemed to have been a bug :-) But only mods could see the reported uploads over and over, it would disappear immediately for regular users. It should be fixed now and work as expected.
+1378335600 Surikaten.: Hmm do uploads not disappear immediately when reported? They don't get deleted immediately but they should at least get hidden
+1378335600 Bob Ross: @falkirknh, I just tried it out...waiting for it to appear.
+1378335600 falkirknh: @#Herobrine#, Nah, I did a test before and the upload will disappear for the user.
+1378335600 Bob Ross: Ah okay...I thought if I moved an upload to moderators the uploader would notice and be able to access the mod board.
+
+Thanks for the heads up :-)

@@ -1,0 +1,13 @@
+Originally suggested at seeds://sQO5kjN1ETM_
+This points idea seems pretty good. Perhaps it could be implemented alongside the report ticketing centre? It could be useful to determine who is a repeat offender.
+Points can be added or subtracted for many actions. For example,
+Upload approved +5 points
+Upload removed (by uploader) -5 points
+Upload removed (by moderator) -10 points
+Warning received -5 points
+Comment downvoted -1 points
+Comment upvoted +1 points
+Comment removed (by moderator) -2 points
+Upload moved -2 points
+We would probably have to adjust these numbers.
+Any input?

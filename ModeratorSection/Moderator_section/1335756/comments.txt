@@ -1,0 +1,17 @@
+1416239514 Frios10: @Hellomynameis99_, I would use it
+1416210517 Hellomynameis99: @Frios10, Haha :-D
+Do you think it's an idea that you'd use?
+1416210498 Hellomynameis99: @TelepathicGrunt✯*, That could be done too! :-)
+What would you suggest could be done to improve the recently viewed section?
+1416210430 Hellomynameis99: @Hotline_101, It might be, what parts are confusing for you?
+1416180340 Frios10: Oh it's a suggestion. I thought it was real for a minute. Oops
+1416163469 Frios10: Wow! Never new that I need to try it out
+1416155642 Hotline_101: @Hellomynameis99_, Just a slight bit confusing though :P
+1416128556 bubblybabs: @Hellomynameis99_, yup. If it's client-side then that would be nice.
+1416128310 Hellomynameis99: @bubblybabs, Tabs can be stored client side, so data related to tabs shouldn't even need to be sent to or processed by the server.
+
+Tabs that aren't in focus or "on top" can be "frozen" and will be reloaded when the user switches back to them. That way, the user gets the latest version of the tab and the tab won't request any data from the server while it's not in focus.
+
+I hope that answers your question :-)
+1416127809 bubblybabs: Would it increase load on the server? Would be great for the mods though.
+1416127120 TheCanadianFluffy: That sounds great! I would love to have that. Great idea Hello!

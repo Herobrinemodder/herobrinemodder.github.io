@@ -1,0 +1,9 @@
+1412608973 bubblybabs: @Surikaten., ok. I wondered where they should go.
+1412608077 Surikaten.: @bubblybabs, ah! Hmm yeah that could be something, could perhaps be added as a subsection to the Forums as it fits under the 'Minecraft' topic. Will write that up as well to be looked in to for an upcoming update.
+
+As for now however they can be posted to Forum > General as it's intended for all things Minecraft & gameplay :-)
+1412607022 bubblybabs: Oh, sorry, I meant minecraft glitches - not glitches with the app.
+1412606906 Surikaten.: @bubblybabs, as for a section for glitches - think it's better to just email them in to us directly since that way we get to have a swifter dialogue with the reporter and it ensures that an app staff attends to it asap, since it alerts all the app staff directly when an email pops in and it remains Unread until someone attends to it. Makes for a faster response and hopefully a quick solution :)
+1412606369 Surikaten.: Hmm yeah it sounds like high time now to implement additional map-options to seeds, as in the past all worlds were basically the same using the same seed id but now you have several extra params you can choose from that alter the world generations, such as infinite/old on PE, amplified/flat/regular on PC etc. Will write it up for the next coming update so it'll be possible to flag exactly on what options the seed is intended for :-) Do expect this to be added in the next coming update!
+1412604901 bubblybabs: Another idea. A new forum/folder/whateveritscalled called glitches so people can upload their glitch images/seeds
+1412508429 Mad Man T1zer 53: I agree.It would stop confusion and stop people from claiming its fake, when instead of infinite, they've done it on old, or vice versa.Good idea ;)

@@ -1,0 +1,16 @@
+1413645750 bubblybabs: @Hellomynameis99_, ok. That's why I said there was a twist in in this one.
+1413640840 Hellomynameis99: @bubblybabs, it's strange, there's really no point in reuploading the same seed again. Blazing's version has a lot more content than Gwen's, however Gwen's is the original. As permission was given, both can stay. This situation hasn't happened too often :-)
+1413640644 bubblybabs: @Hellomynameis99_, 
+Yes, I saw that. That part was written last because that was the reason for my investigating the seed ID.
+What about BlazingLegrnd5 asking to use GwenL776's seed? Is that ok?
+1413640204 Hellomynameis99: description. The string "ULTIMATE SEED" doesn't relate to the actual seed ID in any way - it was just done to get around the duplicate seed filter.
+
+You can see in the description that plasma has typed what the seed really is:
+_________________
+|Seed: 855934560|
+_______
+1413640156 Hellomynameis99: You can convert a numerical ID back into its original form, but it takes a knowledge of mathematics and code I think is beyond most people on the app. This is because you have to undo the operations used by Minecraft to convert the seed (ASCII value of the character * 31 + the end value of the next character in the string), but to do that you have to know the letters used. Tough stuff.
+
+What's happened here is that Plasma has called the upload "ULTIMATE SEED" and given the real seed in the
+1413636902 bubblybabs: @✩✮✭TelepathicGrunt✭✮✩, 
+Well, that's a fascinating coincidence then!

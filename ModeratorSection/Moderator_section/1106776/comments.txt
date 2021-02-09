@@ -1,0 +1,7 @@
+1401023988 Hotline_101: It is
+1401023395 TheCanadianFluffy: I still have to click it. But I when I move it to off topic, I can only move it to General.
+1399674918 TheCanadianFluffy: @Hotline_101, didnt work :~(
+1399641904 TheCanadianFluffy: @Hotline_101, Ok Ill try thanks
+1399639786 Frios10: I noticed it as well. I use hotlines way
+1399608523 Surikaten.: Ah, bug indeed, but yeah Hotline's solution will help to temporarily work around it. Will try patch it asap, unfortunately not for the upcoming patch as that one has already been submitted, but the one immediately following. Sorry for the inconveniences :-)
+1399602557 Hotline_101: It's a rather weird bug, you have to click the actual button instead of sliding it by category

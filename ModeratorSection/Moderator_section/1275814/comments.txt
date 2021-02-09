@@ -1,0 +1,14 @@
+1409992613 Bob Ross: @falkirknh, so this bug is probably only on your device...sorry if I'm nooby Alex knows more about this than me.
+1409992436 falkirknh: @Pykirknh, The image is an unedited screenshot which I took from my iPad. I tried to upload it and the optimizer turned it null.
+1409992378 Bob Ross: @falkirknh, and where did the image originate from (why is it messing stuff up, did you upload it?)
+1409992323 falkirknh: @Pykirknh, the image isn't the problem. The image exposes a bug on the server which accepts null images and lets them mess up the labelling system.
+1409992267 Bob Ross: @falkirknh, and why only this specific image
+1409992235 Bob Ross: @falkirknh, I think your iPad is too far gone with all your jail breaking and modifying.
+1409992181 falkirknh: @Hellomynameis99_, Maybe it's how my device is storing the image. But their is a server bug which allows the corrupted image to screw stuff up.
+1409992137 Bob Ross: @Hellomynameis99_, yes I thought that the problem was the image
+1409992114 Hellomynameis99: @Pykirknh, That's the image Falk referenced in his post as the one that could be causing the issue.
+1409992056 Bob Ross: @Hellomynameis99_, I saw the exact same image as falkirknh on pic 2
+1409992018 Hellomynameis99: All the tests I've run have been negative. Either there's something I'm missing or the bug Falk found was specific to his device.
+
+When you viewed my tests, did you see any issues? Perhaps the glitch affects certain devices, or perhaps the image was already correctly cached on my device.
+1409991995 Bob Ross: I can comment back using this account though.

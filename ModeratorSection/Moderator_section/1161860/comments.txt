@@ -1,0 +1,20 @@
+1403802922 falkirknh: Adding on to this, couldn't you stick the upload into a separate thread and allow the user to browse the app whilst it was uploading?
+1403713689 Surikaten.: This would surely be great. Only potential problem would be the device overhead. Have written it up though to be looked in to for an upcoming update. Hopefully we can squeeze something like this in for the future. Awesome suggestion! :-)
+1403605534 Bob Ross: @YHellomynameis99_, yes PM I am intrigued
+1403597023 Hellomynameis99: @Pykirknh, It shouldn't do either of those, for the reasons I've mentioned below... I can go into more detail if you wish :-P
+1403574086 Bob Ross: Would maybe strain the CPU of an old phone like mine, iPhone 4 and if using 3G would massively drain the battery.
+
+Theory...so...
+
+Just...say...it...
+
+(Groans)
+
+Input?
+1403466520 Hotline_101: @Hellomynameis99_, yep, they have a lot on their plate currently for future updates
+1403444850 Hellomynameis99: @Hotline_101, It should be... As the first image uploads (using little or no device processing power), the second image can process (using device processing power). 
+
+It's probably not going to be high on JN's to-do list, but once a few updates are churned out and there are no new feature ideas, improving app speed and stability is a good way to fill time.
+1403444552 Hellomynameis99: @Hotline_101, No idea, that's why we have our very own Surikaten.! *Drumroll* 
+*Applause* 
+1403443194 Hotline_101: Would be helpful, the question is, is it logistically possible?

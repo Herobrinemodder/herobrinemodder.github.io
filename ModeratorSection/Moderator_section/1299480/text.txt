@@ -1,0 +1,4 @@
+When I click on the "report upload" option, where does it go?
+If I use the "warn user" option, it's public, right?
+Are mods able to delete uploads?  Or is that what the "report upload" is for, so the upload goes to someone who can delete it?
+Thanks

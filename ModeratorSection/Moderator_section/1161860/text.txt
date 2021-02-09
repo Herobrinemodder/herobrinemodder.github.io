@@ -1,0 +1,9 @@
+Hey guys!
+I've heard a few users complain about long upload times. After a few tests I found a possible way to halve the upload times.
+Take a look at the image.
+Basically:
+If "image" = uploading {
+Begin processing next image
+}
+This way, images can process ready for uploading while the previous images are uploading.
+Questions? Comments? Concerns?

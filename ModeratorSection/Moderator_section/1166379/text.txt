@@ -1,0 +1,1 @@
+I have blank notifications yet when I click them they still go to where it would say if there wasn't a bug. 

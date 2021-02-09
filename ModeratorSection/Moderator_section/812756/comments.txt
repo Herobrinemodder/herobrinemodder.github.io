@@ -1,0 +1,30 @@
+1382897264 Frios10: @falkirknh, I would of emailed u but u finally fixed my MCPC version and got alittle carried away with servers and stuff...
+1382837776 Hellomynameis99: @falkirknh, :D
+You win :-)
+1382820747 Frios10: @falkirknh, I got your email and Ill email u tonight ok?
+1382820702 Frios10: @falkirknh, dang ur good!
+1382812235 falkirknh: @Hellomynameis99_, :P
+1382808976 kathryncrusher: @Hellomynameis99_, Oh right 
+1382808929 Hellomynameis99: @TheCanadianFluffy, I suppose that in a manner of speaking I work for JN, but not at JN... It's volunteer work - I don't get payed. It's called moderating :-)
+1382762805 kathryncrusher: @Hellomynameis99_, You work for JN? Soo confused
+1382718564 falkirknh: @Minecraft Seeds, Okay great!
+1382704982 Minecraft Seeds: @falkirknh, you just gave us an idea! Instead of approaching it serverside...we can approach it clientside and have the app manage things. That would eliminate all server load and make it extremely efficient. We'll look into it asap. :-)
+1382635046 Hotline_101: @Frios10, ik, I'm confused too
+1382576076 falkirknh: @Hellomynameis99_, It wouldn't greatly increase the server load as the server already records your recently viewed things. All this would have to do is run a query every 5/10 minutes to check out users whose last viewed was over 5 minutes old. As I say, it could easily be done better by an iOS developer.
+1382575802 Frios10: @#Herobrine#, he works for JN? Wait I'm lost who r we talking about?
+1382546331 Bob Ross: @Hellomynameis99_, yeah I know you work for JN.
+1382521944 Hellomynameis99: As I said on some previous upload of yours, get a job at JN! Your idea should work, however it would increase the server load hundredfold. (Or maybe only tenfold)
+1382521860 Hellomynameis99: Part 2!! :-)
+...some sort of "Log out" button, which obviously not everyone would do, which in turn would result in the Online/Offline badge being extremely unreliable. But we'll be looking into this some more in the future and try come up with a good solution for it.
+1382521784 Hellomynameis99: (Big long quote warning! this will be sent in two messages) "Has been looked into in the past. The biggest problem with this though is that it wont be possible to detect if a user shuts down the app, since Apple doesn't allow apps to execute any code at all once a user closes the app. So the only way for our servers to detect if a user logs out would be if the user manually taps some sort of...
+1382521583 Hellomynameis99: @falkirknh, Those are some good points, but I'm just restating what I was told :-)
+1382494474 Frios10: @falkirknh, if you could can you check my post on religion? Thanks
+1382492661 Frios10: @falkirknh, cool. I gtg
+1382492612 falkirknh: @Frios10, Me too, maybe an opt out, my forums site has that sort of system
+1382492580 falkirknh: @Hellomynameis99_, Also, clearly you haven't heard of background app refresh :P
+1382492553 falkirknh: @Hellomynameis99_, It could also just mark a user offline when their last action was more than 5 minutes ago
+1382492524 falkirknh: @Hellomynameis99_, Nah, the app would send a request to the server every 5 or so minutes of use , if the signal wasn't received the user would be checked out. I'm not a developer for iOS though :P
+
+
+1382492426 Frios10: Yea I wouldn't like that feature I would feel invaded of my privacy.
+1382479913 Hellomynameis99: Just sent an email to JN. Unfortunately, Apple prevents apps from running any script after they are closed. There would have to be a "logout" button, which not all users would tap before leaving the app... The system would be somewhat unreliable. :-(

@@ -1,0 +1,7 @@
+I've been using this iOS feature for some time now, but I forgot to share it with you guys! Yep, I'm selfish. :-)
+Today we're going to explore keyboard shortcuts. I'm going to add a shortcut to warn a user.
+Firstly, visit Settings/General/Keyboard/Add New Shortcut.
+Add a phrase such as "Your comment has been removed. Please refrain from using profane language on the app."
+Next, add a shortcut that you will remember. For example, I use the letters 'cr' as they mean 'Comment Removed'. Don't use a word such as 'Profane' or 'Warning', otherwise every time you type that word in a normal sentence, your message will appear. The shortcut is not case sensitive.
+Aaand we're done! Tap save, open the app, go to this thread and type your shortcut. Add a space or tap the return key to add the message, then tap send.
+I hope this helps! Enjoy sending your impersonal automated messages. :-)

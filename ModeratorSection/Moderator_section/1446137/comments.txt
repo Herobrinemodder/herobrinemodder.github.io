@@ -1,0 +1,3 @@
+1426891940 bubblybabs: @Minecraft Seeds, ok, thx
+1426871154 Minecraft Seeds: Yeah, bug! This is an old one however that used to be in the app back when sections were implemented. If users would upload a post to a certain section, and the filter moved it to the correct section, the upload would maintain it’s main section but subsection would change. This was fixed and we corrected most affected uploads however some might have still slipped by. We’ll correct this one as well asap! :-) The bug doesn’t cause any issues with the uploads besides showing the wrong info.
+1426862453 bubblybabs: Are seeds/private old stuff?

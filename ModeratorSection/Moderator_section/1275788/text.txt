@@ -1,0 +1,12 @@
+I have discovered a rather strange bug which involves multiple issues that produce nasty result. Below are the steps I used to produce the above:
+1. Attached a random image as first and http://falkirks.com/img.png (not sure why it's special) as second.
+2. Wait for image optimizer to fail and renders a black screen.
+3. Upload as normal.
+This test was run in the mod board and it resulted in the upload being listed in my uploads without an "Approved" label or a "Pending" label. The upload didn't show up in the board listing (as it wasn't "approved"). Also, the problem image isn't shown at all when the upload is viewed (it appears to only have one image). 
+I decided to run further tests. 
+- I repeated the above steps except I used only the problem image. The upload wasn't visible anywhere in the app, despite an "Upload completed!" message. 
+- I also ran the first test outside the mod board with the same results (no "Pending" label was attached).
+Device Specs:
+- iPad 3
+- 7.1.2
+- Jailbroken with Pangu (but works with substrate off).

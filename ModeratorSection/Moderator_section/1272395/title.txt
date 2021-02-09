@@ -1,0 +1,9 @@
+Proper seed duplicate checking
+
+2014-09-02
+
+Stars:5
+
+approved
+
+Moderators

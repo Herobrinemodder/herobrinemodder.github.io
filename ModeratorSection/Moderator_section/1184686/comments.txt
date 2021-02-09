@@ -1,0 +1,14 @@
+1404932535 toughguy42: @Surikaten., sweet! Thanks!
+1404931601 Surikaten.: @toughguy42, fixed :-) Seems to have been a server verification issue when the app hadn't initialized game center yet and a mod upload was trying to be accessed - has been fixed now though and should work as expected :-)
+1404931169 Surikaten.: @toughguy42, just noticed it when I tried launching the app through the notification I just received from your comment. Will look in to it asap and see what's causing it :-)
+1404930830 toughguy42: @Surikaten., I've got another bug thing for you. When I get a notification off the lock screen such as "AndrewDill has uploaded a new Moderator Thread", If I select it it will give the message that  Its been deleted, or that it's an incorrect link. Then the app is just stuck on the background colors. Any idea as to what I'm talking about?
+1404840328 Surikaten.: Aand fixed! Underlying problem is being looked in to right now to make sure this doesn't occur again :-)
+1404834765 Hellomynameis99: @Frios10, oh wow! That's strange.... 
+1404834639 Hellomynameis99: Oh, I just noticed this too! I've sent a PM to Surikaten asking if it's some sort of Easter egg :-P
+1404834551 Hotline_101: Surikaten. is on it :)
+1404833266 Frios10: Oh my gosh again! Go to flagged users...the glitch is there to...
+1404833216 Frios10: I flagged the user if you have a hard time finding the profile with I doubt will happen.
+1404833119 Frios10: Also click on the user puppy love or somthing like that and the avatar follows. If you click one of her uploads the app say director class error. Just did more investigating and that's what happened.
+1404832579 Frios10: If you would like to see for your self here's a link 
+
+seeds://sANyUjM3ETM_

@@ -1,0 +1,104 @@
+1400572498 Hellomynameis99: Awesome! :-)
+1400516784 Surikaten.: @Pykirknh, patched!
+1400439684 Bob Ross: @Surikaten., alright then, thanks for replying. :-)
+1400426096 Surikaten.: @Pykirknh, kill/hate will be fixed though asap as soon as I get a hold of a computer :-) Those shouldn't be offensive. And special characters will be replaced with regular normalized characters so you can replace characters with special ones in order to bypass the words, will also dig in to that asap.
+1400426007 Surikaten.: ...the regular norm it's hard to bann them :-)
+1400425988 Surikaten.: @Pykirknh, haha creative phrases :-p
+
+Although for the spacing issue, it is indeed difficult to solve that one, we're still keeping our eyes open for solutions to implement but Hello's point is the prime reason it's quirky
+
+As for 'funky' and other metaphors as well, would be hard to bann those as well as their prime meaning isn't offensive or profane and as long as them being offensive isn't...
+1400418563 Hellomynameis99: There's some colorful language there!  :-P
+
+Anyway, the spacing fix could have some implications. For example, the phrase 'users expectations' might be flagged as s ex, and so on and so on.
+1400410421 Bob Ross: @Surikaten., the spacing problem isn't fixed still.
+1400410352 Bob Ross: @Pykirknh, F U C K you.
+1400410282 Bob Ross: S e x u a l
+P e n e t r a t i o n
+1400410254 Bob Ross: Dumb a s s
+1400410216 Bob Ross: Well funky does have its faults...it can be used to call something weird and also can be used in a minor šëxüäl behaviour.
+1400410145 Bob Ross: @Hotline_101, I want to get funky with Canadian
+1400410078 Bob Ross: Kill is another one...
+1400410066 Bob Ross: @Hotline_101, I'm going to kill you slowly
+1400410054 Bob Ross: So apparently hate is an appropriate word
+1400410038 Bob Ross: @Hotline_101, I hate you
+1400409929 Bob Ross: Rabbit vïbrätör
+1400409896 Bob Ross: Błōwjōb
+1400409853 Bob Ross: Cłït
+1395971698 Hotline_101: The word snatc h without space won't work... Filter qualifies it as profanity
+1395971650 Hotline_101: snatch*jshdhdjdbdhdvzs
+1395963383 Hellomynameis99: A user has found an issue with the filter - seeds://sQOykDO0ATM_
+1392476493 Surikaten.: @Frios10, that's still being looked in to, as filtering off words that contain spaces etc is a bit tricky, but we'll try come up with a good way for that asap :-)
+1392427169 Frios10: Appears that works...
+1392427154 Frios10: Fuc k
+
+Excuse my language
+1392427103 Frios10: Testing...
+1392298470 Surikaten.: @Hellomynameis99_, shit was declassified as profane some time ago due to lots of users using the word loosely, not necessarily to offend someone or something, but if it starts to get excessive it'll be added back to the filter asap.
+1392298136 Hellomynameis99: I feel really bad for using all this... language... Hehe
+1392298113 Hellomynameis99: @Surikaten., Great! Don't forget i in shìt, shįt, shīt, etc :-)
+1392296305 Surikaten.: @Hellomynameis99_, hm true it. Seems like we missed those, updated!
+1392295683 Hellomynameis99: @Surikaten., excuse my language, but what about fūck?
+
+Edit: ì is also unblocked
+1392291552 Surikaten.: @Hellomynameis99_, for the profanity filter they are already :-)
+1392279001 Hellomynameis99: There are soo many substitutions for letters... A alone has àáâäãå and ā.
+
+Any way to make these count as the one character A?
+
+èéêëēėę = e
+Ÿ = y
+ūúùüû = u
+Ìįīíïî = i
+etc
+1392276562 Bob Ross: @Surikaten., NP.
+1392261102 Surikaten.: @Pykirknh, fixed :-) Thanks for the heads up!
+1392259893 Surikaten.: @Pykirknh, hmm that one was new, thanks will look into it now.
+1392259795 Surikaten.: @Pykirknh, fu isn't really profane and will be hard to moderate, but will fix the rest. Blocking offensive words that contain numbers or spaces individually is tricky though so we're looking at preventing the workaround instead :-)
+1392259326 Bob Ross: aFUCKaYOUaIaWANNAa
+1392259300 Bob Ross: @Surikaten., as seen, you can hide cuss messages.
+1392259282 Bob Ross: AjajajFUCKajsjjsjsIajsjjaWANNAajjajajajCUMhajajjaja
+1392259242 Bob Ross: @falkirknh, still not fixed.
+1392259220 Bob Ross: Shitheads
+1392259192 Bob Ross: @Surikaten., you might wanna fix those...
+1392259175 Bob Ross: Join the PEN15 club.
+1392259093 Bob Ross: Vagin a
+1392259041 Bob Ross: Rėtard
+1392258904 Bob Ross: Masturbation
+1392258883 Bob Ross: Fu
+1380830358 Surikaten.: @falkirknh, @Frios10, improved and fixed. Good find :-)
+1380829445 Mad Man T1zer 53: Yeah, symbols and stuff don't get through profanity, but if you put some letters then cuss, it gets through.
+1380829407 Mad Man T1zer 53: Djdjdndjdjdbitch
+1380829401 Mad Man T1zer 53: Dksjdndnsbictch
+1380829360 Mad Man T1zer 53: I tired ar**, sh** and bit** and it didn't get through profanity
+1380768221 Frios10: @falkirknh, so did u want to here y idea on fixing ur PMs?
+1380768109 Frios10: Sorry :0 but I think there should be a filter on the "heads" part to avoid that I assume the same thing happen with falk
+1380768059 Frios10: Oh there's one
+1380768051 Frios10: Dickheads
+1380766811 falkirknh: See you can't type s*ithead but shitheads works
+1380766772 falkirknh: Ahh..the weak point is shitheads
+1380718578 Frios10: @#Herobrine#, there's one
+1380693125 Bob Ross: Jackass
+1380607770 kathryncrusher: @Hotline_101, Weird
+1380587993 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: @Hellomynameis99_, not mine... i use to curse... but then i stopped
+1380587961 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: hmm.. well this is a problem
+1380584608 Hotline_101: @#Herobrine#, Bizarre XD
+1380584596 Hotline_101: @#Herobrine#, You can say B•••• on forums.... And yet we can't say Pôop....
+1380584550 Hotline_101: Loser
+1380583134 kathryncrusher: Idiot
+1380583123 kathryncrusher: Jerk
+1380568650 Bob Ross: Kkk
+1380568647 Bob Ross: Zzz
+1380568012 Bob Ross: For some reason, I can say b**ch on normal threads.
+1380545865 Frios10: @Hellomynameis99_, it works :)
+1380545825 Frios10: @Hellomynameis99_, oh let me try :D
+1380539216 Hellomynameis99: Yep, seems to be working. That's the first time I've ever written anything like that on this app.
+1380529000 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: im such a bad moderator lol
+1380528971 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: heII
+1380528937 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: damnet
+1380528932 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: jerk
+1380528645 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: @#Herobrine#, okay?
+1380528639 Bob Ross: Sucks
+1380528604 Bob Ross: Pliable Friggin Newton Monkeys
+1380528602 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: i tried about every single word none were able to get through unless i used the little symbols
+1380528576 ฿จடτ~τhཇ~ᏝεᏩεлd~ᏝᎥghᎿлᎥภg~ཡᎧโf: all clear

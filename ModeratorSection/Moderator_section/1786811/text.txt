@@ -1,0 +1,7 @@
+Hey all,
+You've probably all seen seeds uploaded in the wrong section and moved them to the correct one (as, of course, you should).
+However I know that there have been concerns that users could be uploading to the wrong section and getting their uploads moved to be put on top of the correct section.
+So I have 3 questions today:
+Firstly, if I moved an upload from creations (for example) to seeds, would the upload appear on top of the "recent" list? I've never actually tested this.
+Secondly, if the upload does indeed appear at the top of the list, what should our policy be with moving seeds from other sections, especially if it is clear that the user is doing so to appear on the top of the list?
+Finally (and this is specific to the seed shown in the screenshot above, where it seems that the user is uploading in creations to bypass the duplicate filter), what happens when we move a copied seed to it's correct section? Are there extra checks to see if it has been uploaded before, or will it trust the moderator's judgement and move it anyway, regardless of whether the seed exists or not?

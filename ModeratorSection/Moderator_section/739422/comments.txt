@@ -1,0 +1,14 @@
+1378422000 Surikaten.: @AndrewDill, we'll look into adding the ticket system asap but since it would require a new interface it'll take time. So it might not be out with the next update. Perhaps the update after that :-)
+1378422000 Surikaten.: @#Herobrine#, haha alright, it should hopefully work now
+1378422000 AndrewDill: @Frios10,15.You?
+1378422000 Frios10: @AndrewDill, just wondering how old are you?
+1378422000 AndrewDill: Yea that would be a lot more efficient than having a bunch of report abuse threads.Having a bunch of tickets in one place that any moderator can access would allow constant resolving of issues.It would also encourage me to actually moderate stuff.
+1378422000 Bob Ross: @Surikaten., okay I'll test out an upload...don't worry it's on one of my secret accounts :-)
+
+Got the idea from falkirknh :D
+1378335600 falkirknh: @Surikaten., Yeah, I haven't reported thing rectory so I didn't know, thanks for the info!
+1378335600 Surikaten.: @falkirknh, currently reporting threads should immediately hide them from the app until they get deleted. It takes 1-2min for the report to take effect in the app but then it should get hidden. There must be a bug somewhere
+1378335600 falkirknh: We could use with both of these tools, maybe for getting rid of threads we could place a mod lock on them which would allow us to block users from viewing certain aspects or commenting on the upload. This lock would be in place until the removal clears. Unfortunately that is a complex feature :(
+1378335600 Bob Ross: @Hotline_101, apparently not.
+1378335600 Hotline_101: Whatever happened to the in-app report system, I thought that was in the tubes for this update....
+1378335600 Frios10: I agree ( love the pic )

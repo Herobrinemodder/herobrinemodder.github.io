@@ -1,0 +1,39 @@
+1410057606 Surikaten.: @falkirknh, awesome, looking into it right now.
+1410057174 falkirknh: @Surikaten., Uploaded.
+1410056920 falkirknh: @Surikaten., I will stick it in the moderator board. That way users can't stumble onto it,
+1410037249 Surikaten.: @falkirknh, sorry for the delayed response, didn't have internet access. Am finally looking in to this now though and if you have the opportunity could you please fire another version of that upload that was malfunctioning up? And will check it out asap and see what exactly messing about.
+1410028146 falkirknh: @Surikaten., I had to delete the test post as users where able to see it. I am not sure why as it didn't have an "Approved" label on it.
+1410024671 falkirknh: @Surikaten., Is there any way I could get the image which the optimizer spits out? Would it be cached? I could proxy traffic back through a web-server on my Mac and then find the corrupted image there (I wrote a node proxy a while back, I will see if it works).
+1410024153 falkirknh: @Surikaten., The same thing happened with the pictures. Although my internet cut out at picture 5 so that might explain it. I reposted a test upload of the original issue so you can look at that if you want. 
+1410022719 falkirknh: @Surikaten., I will post pictures.
+1410022436 Surikaten.: @falkirknh, that is extremely strange. I'm not behind a computer right now so can't do too much atm but will look into it ASAP as soon as I get a hold of one. It'll most likely be possible to implement a fix entirely server side so the upload itself goes through regardless of client troubles.
+1410022290 falkirknh: @Surikaten., Can you isolate the issue with the server though? Why, it allows the upload and then doesn't properly label it.
+1410022159 falkirknh: @Surikaten., I actually tried one of the same size with twice the size and it went through fine.
+1410022083 Surikaten.: Hmm this is very strange indeed. It could very well be a device related issue, since the optimizer kicks in if the image is either too big or the device is running low on memory in order to process the image. It could be the latter that is perhaps messing about when the app is trying to recompress the image. Will have a further look at the code and see where exactly things are messing about.
+
+What happens if you try another 2048x2048 image or an image of the size >2mb?
+1409999434 Bob Ross: @Hellomynameis99_, the first set was brilliant the second was a bit too large in my opinion
+1409999103 Hellomynameis99: You can't import the corrupt image at all, which is good...
+1409999011 Hellomynameis99: @Pykirknh, The test is invalid - 4096x3072 images crash the app if you try to import them :/
+
+Thinking on it, 4096 is pretty big...
+1409997330 Bob Ross: @Hellomynameis99_, bloody brilliant!
+1409995383 Hellomynameis99: I've created a set of 7 images. In one of them I've removed the PNG identifier to "corrupt" it, and the rest are saved in 2048*1536 in 8, 24 and 32 bit, and another set in 4096*3072 in 8, 24 and 32 bit. I'll test them all to see if I can isolate any variables. But first, I'm going to have a cup of java!
+1409994090 Hellomynameis99: @falkirknh, Hmmm, the image optimizer didn't fail. Issue specific to your device, perhaps?
+1409993753 Hellomynameis99: @falkirknh, Great, dimensions look correct. Will try it now :-)
+1409993352 falkirknh: I tested with other screenshots of the same dimensions and haven't been able to reproduce. It's something about this image.
+1409993214 falkirknh: @Hellomynameis99_, Ping! I stuck it on my personal server at http://falkirks.com/img.png. I downloaded a copy and it works for me.
+
+1409992904 falkirknh: @Hellomynameis99_, I am working on getting the raw file to you.
+1409992876 Hellomynameis99: @falkirknh, Does DropBox have any compression settings it does it automatically resize uploads?
+1409992723 falkirknh: @Hellomynameis99_, yep, I have a much larger image at 2048x1536
+1409992569 Hellomynameis99: @falkirknh, Hmm, data loss...
+
+The image I downloaded from DropBox has the dimensions of 1024 x 768, and a bit depth of 24. The image is 1,075,356 bytes.
+
+Do these specs match yours? 
+1409992564 falkirknh: @Hellomynameis99_, I will try to do more tests. The issue here is, I have found a small finicky client bug which exposes a much larger and obvious server one. The server one can't be highlighted without the client first having a way to upload a blank image.
+1409992410 Hellomynameis99: I was unable to recreate the bug... Are there any other factors that might influence the outcome?
+1409992196 Bob Ross: @falkirknh, no he wasn't able to
+1409991647 falkirknh: @Hellomynameis99_, Were you able to reproduce the issue? I am able to see yours. Maybe the image is losing some data when I upload it to Dropbox.
+1409991306 Bob Ross: Very strange indeed
