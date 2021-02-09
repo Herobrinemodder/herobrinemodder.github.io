@@ -23,7 +23,7 @@ xmlhttp.onreadystatechange = (e)=> {
   //if (this.readyState == 4 && this.status == 200) {
     var myObj = JSON.parse(xmlhttp.responseText);
     for (i = 0; i < myObj.seeds.length; i++) {
-        text += myObj.seeds[i].id+" "+myObj.seeds[i].date+" "+" "+myObj.seeds[i].user+": "+myObj.seeds[i].seed +" "+"<a href="+"Moderator_section/"+myObj.seeds[i].id+"/upload.html"+" target='_blank'>view</a>"+" "+"<a href="+"Moderator_section/"+myObj.seeds[i].id+"/comments.txt"+" target='_blank'>comments</a>"+ "<br>";
+        text += myObj.seeds[i].id+" "+myObj.seeds[i].date+" "+" "+myObj.seeds[i].user+": "+myObj.seeds[i].seed +" "+"<a href="+"Moderator_section/"+myObj.seeds[i].id+"/upload.html"+">view</a>"+" "+"<a href="+"Moderator_section/"+myObj.seeds[i].id+"/comments.txt"+">comments</a>"+ "<br>";
     }
     document.getElementById("demo").innerHTML = text;
   //}
