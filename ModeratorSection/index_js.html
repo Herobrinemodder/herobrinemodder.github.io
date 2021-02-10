@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<title>Seeds Pro Moderator Board Archive</title>
+<body>
+
+<h2>Minecraft Seeds Pro Moderator Board</h2>
+<p>This is an archive of the "secret" moderator board.</p>
+<p>Missing one moderator (telepathicgrunt) due to his data being deleted before this was downloaded.</p>
+<p>The list is not exactly ordered by upload date.</p>
+<p>Click view to see a posts' images and text, comments to see comments... You probably want to access this on a computer.</p>
+
+<p id="demo"></p>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var text = ""
+//const url='http://jsonplaceholder.typicode.com/posts'
+
+xmlhttp.open("GET", "Moderator_section/userseeds_mod_section.json", true);
+xmlhttp.send();
+xmlhttp.onreadystatechange = (e)=> {
+  //console.log(xmlhttp.responseText)
+  //if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(xmlhttp.responseText);
+    for (i = 0; i < myObj.seeds.length; i++) {
+        text += myObj.seeds[i].id+" "+myObj.seeds[i].date+" "+" "+myObj.seeds[i].user+": "+myObj.seeds[i].seed +" "+"<a href="+"Moderator_section/"+myObj.seeds[i].id+"/upload.html"+">view</a>"+" "+"<a href="+"Moderator_section/"+myObj.seeds[i].id+"/comments.txt"+">comments</a>"+ "<br>";
+    }
+    document.getElementById("demo").innerHTML = text;
+  //}
+};
+
+</script>
+
+
+<!--<img src="https://mcseeds.mobi/seeds/imgrdrct.php?p=mcsp17&url=seeds/user_uploads/Private/2016/11-28/Thank_you1.jpg" alt="mcseeds">-->
+
+</body>
+</html>
